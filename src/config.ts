@@ -45,9 +45,9 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "GitHub",
-			url: "https://github.com/zhengteng39jy-ship-it", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
+			name: "编辑",
+			url: "https://zhengteng39jy-ship-it.github.io/Blog/editor/", // Internal links should not include the base path, as it is automatically added
+			external: false, // Show an external link icon and will open in a new tab
 		},
 	],
 };
