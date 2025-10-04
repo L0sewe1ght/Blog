@@ -1,7 +1,7 @@
 ---
 title: 荒白
-published: 
-updated: 
+published: 2025-10-04
+updated: 2025-10-04
 description: ''
 tags: []
 category: 诗
