@@ -4,7 +4,7 @@ published: 2025-11-28
 updated: 2025-11-28
 description: ''
 tags: []
-category: ''
+category: 随笔
 ---
 
 #### 文爱的哲学内涵
