@@ -1,5 +1,5 @@
 ---
-title: poem7
+title: 雪国
 published: 2025-12-24
 updated: 2025-12-24
 description: ''
