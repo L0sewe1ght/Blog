@@ -2,7 +2,7 @@
 title: 宵禁
 published: 2025-12-24
 updated: 2025-12-24
-description: ''
+description: 写完发现很像茨威格的《象棋的故事》
 tags: []
 category: 超短篇
 ---
