@@ -2,7 +2,7 @@
 title: 长兄如父
 published: 2025-12-24
 updated: 2025-12-24
-description: ''
+description: 写的时候有点崩溃
 tags: []
 category: 诗
 ---
