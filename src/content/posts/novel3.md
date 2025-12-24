@@ -2,7 +2,7 @@
 title: 为死人让座
 published: 2025-12-24
 updated: 2025-12-24
-description: ''
+description: 双主题
 tags: []
 category: 超短篇
 ---
