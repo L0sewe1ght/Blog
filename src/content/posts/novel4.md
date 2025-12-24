@@ -2,7 +2,7 @@
 title: 天空之城
 published: 2025-12-24
 updated: 2025-12-24
-description: ''
+description: 以城为主题的有四篇，这是第三篇，也是最好的一篇（至少我觉得）。这个博客只上传了两篇，因为还有两篇确实有点烂
 tags: [城]
 category: 超短篇
 ---
