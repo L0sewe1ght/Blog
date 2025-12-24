@@ -2,7 +2,7 @@
 title: 雪国
 published: 2025-12-24
 updated: 2025-12-24
-description: ''
+description: 很喜欢的一首，因为其实是在写夏天
 tags: []
 category: 诗
 ---
