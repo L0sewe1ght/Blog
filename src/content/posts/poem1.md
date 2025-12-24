@@ -2,7 +2,7 @@
 title: 荒白
 published: 2025-10-04
 updated: 2025-10-04
-description: ''
+description: 大学写的第一首
 tags: []
 category: 诗
 ---
