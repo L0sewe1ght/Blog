@@ -2,7 +2,7 @@
 title: 冰囚
 published: 2026-02-04
 updated: 2026-02-04
-description: ''
+description: 听夜鹿的《雪国》写出来的
 tags: []
 category: 诗
 ---
