@@ -7,5 +7,6 @@ tags: []
 category: 评论
 ---
 
-占位符
+2026.3.16
+听了slowdive的souvlaki，喜欢alison和machine gun，尤其是alison，感觉自己被重力拖入水底。颓废的词和无比的温柔在一首歌的时间里沉溺。
 
