@@ -8,5 +8,8 @@ category: 评论
 ---
 
 2026.3.16
-听了slowdive的souvlaki，喜欢alison和machine gun，尤其是alison，感觉自己被重力拖入水底。颓废的词和无比的温柔在一首歌的时间里沉溺。
+
+听了slowdive的souvlaki[https://neodb.social/album/4Ygfpm1Wk2n83wxnTNCL3u](https://)
+
+喜欢alison和machine gun，尤其是alison，感觉自己被重力拖入水底。颓废的词和无比的温柔在一首歌的时间里沉溺。
 
