@@ -2,7 +2,7 @@
 title: 评论与思考2026.4
 published: 2026-04-06
 updated: 2026-04-06
-description: "见他人之所未见，闻他人之所为闻\n\n听他人之所为听，得他人之所为得"
+description: 见他人之所未见，闻他人之所为闻；听他人之所为听，得他人之所为得
 tags: []
 category: 评论
 ---
